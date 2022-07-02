@@ -4,9 +4,9 @@
 
 <div align="center">
 	<h3>Hi, I'm Giga Amiridze! 👋</h3>
-	<p>
+<!-- 	<p>
 		<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-                   Stack+Developer;Always%20learning%20new%20things&;center=true&width=300&height=30"></a>
-	</p>
+	</p> -->
 </div>
 
 ###  About me 💁‍♂️
@@ -16,6 +16,8 @@
 - 🔭 Currently exploring the amazing world of Computer Science
 - 🃏 Cyber Security Rookie
 - 🎯 My goal is to become a Full-Stack Developer and Cyber Security Specialist
+
+<br>
 
 <div align="center">
 	<h3>Contact me</h3>
@@ -91,13 +93,15 @@
 
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <div align="center">
-  <a href="https://github.com/gigaamiridze/github-readme-stats"><img alt="Giga's GitHub Stats" src="https://github-readme-stats.vercel.app/api? username=gigaamiridze&show_icons=true&count_private=true&theme=algolia" height="190px"/></a>
+  <a href="https://github.com/gigaamiridze/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigaamiridze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Giga's Langs Stats" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigaamiridze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=aura" alt="Giga's Langs Stats" height="190px"/>
 </div>
 
+<br>	  
+	  
 <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
