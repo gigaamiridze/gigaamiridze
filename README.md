@@ -13,8 +13,10 @@
 
 - 💻 I'm learning  Software Engineering
 - 🚀 Learning at [Unilab](http://unilab.iliauni.edu.ge/), the digital lab of [Ilia State University](https://iliauni.edu.ge/en/)
+<!--
 - 🔭 Currently exploring the amazing world of Computer Science
 - 🃏 Cyber Security Rookie
+-->
 - 🎯 My goal is to become a Full-Stack Developer and Cyber Security Specialist
 
 <br>
