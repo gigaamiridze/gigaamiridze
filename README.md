@@ -12,19 +12,19 @@
 
 <div align="center">
   <h3>Contact me</h3>
-  <a href="mailto:justttfelix@gmail.com">
+  <a href="mailto:gigaamiridze@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gigaamiridze" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/giga.amiridze" target="_blank">
+  <a href="https://www.instagram.com/gigaamir" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/justttfelix" target="_blank">
+  <a href="https://twitter.com/giga_amiridze" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/feliixxmj" target="_blank">
+  <a href="https://www.facebook.com/gigaamiridze" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </div>
@@ -96,12 +96,12 @@
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <div align="center">
   <a href="https://github.com/justtfelix/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=justtfelix&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justtfelix&langs_count=10&show_icons=true&locale=en&layout=compact&theme=aura" alt="Giga's Langs Stats" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigaamiridze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=aura" alt="Giga's Langs Stats" height="190px"/>
 </div>
