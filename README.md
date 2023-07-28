@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/gigaamiridze" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gigaamir" target="_blank">
+  <a href="https://www.instagram.com/gigaamiridzee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/giga_amiridze" target="_blank">
@@ -95,7 +95,7 @@
 
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <div align="center">
-  <a href="https://github.com/justtfelix/github-readme-stats">
+  <a href="https://github.com/gigaamiridze/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/>
   </a>
 </div>
