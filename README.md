@@ -4,7 +4,7 @@
 
 ###  About me 💁‍♂️
 
-- 💻 Full-Stack Developer (Django/Node + React/React Native)
+- 💻 Full-Stack Web & Mobile Developer
 - 🌐 Personal Portfolio [gigaamiridze.com](https://www.gigaamiridze.com)
 <!-- - 🔭 Learning Networks and Cyber Security at [IT Step Academy](https://ge.itstep.org) -->
 
