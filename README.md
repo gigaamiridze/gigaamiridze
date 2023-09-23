@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href='https://www.gigaamiridze.com'>Giga Amiridze!</a></h2>
+<h2 align='center'>Hi, I'm <a href='https://www.gigaamiridze.com'>Giga Amiridze!</a></h2>
 
 ###  About me 💁‍♂️
 
