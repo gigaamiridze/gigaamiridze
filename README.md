@@ -1,6 +1,4 @@
-<div align="center">
-  <h2>Hi, I'm Giga Amiridze! 👋</h2>
-</div>
+<h2>Hi, I'm <a href='https://www.gigaamiridze.com'>Giga Amiridze!</a></h2>
 
 ###  About me 💁‍♂️
 
