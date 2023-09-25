@@ -27,26 +27,26 @@
 
 <div align='center'>
   <h3>🤝🏻 Connect with me</h3>
-  <a href='mailto:gigaamiridze@gmail.com'>
-    <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='33' />
+<!--   <a href='mailto:gigaamiridze@gmail.com'>
+    <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='32' />
   </a>
 	<a href='https://www.gigaamiridze.com' target='_blank'>
-		<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' height='30' width='33' />
-	</a>
+		<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' height='30' width='32' />
+	</a> -->
   <a href='https://www.linkedin.com/in/gigaamiridze' target='_blank'>
-    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30' width='40' />
+    <img src='https://skillicons.dev/icons?i=linkedin' height='40' width='40' />
   </a>
   <a href='https://www.instagram.com/freakkyflx' target='_blank'>
-    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' height='30' width='40' />
+    <img src='https://skillicons.dev/icons?i=instagram' height='40' width='40' />
   </a>
   <a href='https://twitter.com/giga_amiridze' target='_blank'>
-    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' height='30' width='40' />
+    <img src='https://skillicons.dev/icons?i=twitter' height='40' width='40' />
   </a>
   <a href='https://www.facebook.com/gigaamiridzee' target='_blank'>
-    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' height='30' width='40' />
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' height='40' width='40' />
   </a>
 	<a href='https://discord.gg/gigaamiridze' target='_blank'>
-    <img src='https://skillicons.dev/icons?i=discord' height='30' width='40' />
+    <img src='https://skillicons.dev/icons?i=discord' height='40' width='40' />
   </a>
 </div>
 
