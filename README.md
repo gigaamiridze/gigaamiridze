@@ -80,7 +80,7 @@
 
 <div align='center'>
   <h4>Mobile App Development</h4>
-  <img src='https://skillicons.dev/icons?i=reactnative' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=react' height='40' width='40' />
 </div>
 
 <div align="center">
