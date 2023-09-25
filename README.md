@@ -23,22 +23,27 @@
 - 📄 I’m currently open for a job opportunity, this is my [Resume](https://drive.google.com/file/d/1b0nlyBXEqA_hXLJ0IFz8bim1i5fULBCb/view?usp=sharing)
 - 📧 How to reach me gigaamiridze@gmail.com
 
-<div align="center">
+<br>
+
+<div align='center'>
   <h3>🤝🏻 Connect with me</h3>
-  <a href="mailto:gigaamiridze@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gigaamiridze" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gigaamiridzee" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/giga_amiridze" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/gigaamiridze" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href='mailto:gigaamiridze@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
+  <a href='https://www.linkedin.com/in/gigaamiridze' target='_blank'>
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30' width='40' />
+  </a>
+  <a href='https://www.instagram.com/freakkyflx' target='_blank'>
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' height='30' width='40' />
+  </a>
+  <a href='https://twitter.com/giga_amiridze' target='_blank'>
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' height='30' width='40' />
+  </a>
+  <a href='https://www.facebook.com/gigaamiridzee' target='_blank'>
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' height='30' width='40' />
+  </a>
+	<a href='https://discord.gg/gigaamiridze' target='_blank'>
+    <img src='https://skillicons.dev/icons?i=discord' height='30' width='40' />
   </a>
 </div>
 
