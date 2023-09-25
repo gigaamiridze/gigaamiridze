@@ -118,13 +118,6 @@
 
 <h3 align='center'>⚙️ GitHub Analytics</h3>
 <div align='center'>
-  <a href="https://github.com/gigaamiridze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigaamiridze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=aura" alt="Giga's Langs Stats" height="190px"/>
+	<img src='https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=tokyonight&show_icons=true' alt='GitHub Statistics' height='180px' />
+	<img src='https://github-readme-stats.vercel.app/api/top-langs?username=gigaamiridze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight' alt='Language Statistics' height='180px' />
 </div>
