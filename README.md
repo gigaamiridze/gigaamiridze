@@ -71,6 +71,13 @@
 	<img src='https://skillicons.dev/icons?i=styledcomponents' height='40' width='40' />
 </div>
 
+<div align='center'>
+  <h4>Backend Development</h4>
+  <img src='https://skillicons.dev/icons?i=django' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=nodejs' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=expressjs' height='40' width='40' />
+</div>
+
 <div align="center">
   <h4>Libraries & Frameworks</h4>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
