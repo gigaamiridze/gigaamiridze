@@ -61,6 +61,16 @@
 	<img src='https://skillicons.dev/icons?i=java' height='40' width='40' />
 </div>
 
+<div align='center'>
+  <h4>Frontend Development</h4>
+  <img src='https://skillicons.dev/icons?i=html' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=css' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=sass' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=react' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=redux' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=styledcomponents' height='40' width='40' />
+</div>
+
 <div align="center">
   <h4>Libraries & Frameworks</h4>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
