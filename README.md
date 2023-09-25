@@ -28,7 +28,7 @@
 <div align='center'>
   <h3>🤝🏻 Connect with me</h3>
   <a href='mailto:gigaamiridze@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+    <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='40' />
   </a>
   <a href='https://www.linkedin.com/in/gigaamiridze' target='_blank'>
     <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30' width='40' />
