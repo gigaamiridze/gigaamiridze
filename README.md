@@ -30,6 +30,9 @@
   <a href='mailto:gigaamiridze@gmail.com'>
     <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='40' />
   </a>
+	<a href='https://www.gigaamiridze.com' target='_blank'>
+		<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' height='30' width='40' />
+	</a>
   <a href='https://www.linkedin.com/in/gigaamiridze' target='_blank'>
     <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30' width='40' />
   </a>
