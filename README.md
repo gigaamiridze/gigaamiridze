@@ -106,19 +106,12 @@
 	<img src='https://skillicons.dev/icons?i=docker' height='40' width='40' />
 </div>
 
-<div align="center">
-  <h4>Package Managers</h4>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
-</div>
-
-<div align="center">
-  <h4>IDEs</h4>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<div align='center'>
+  <h4>IDEs<h4>
+	<img src='https://skillicons.dev/icons?i=vscode' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=idea' height='40' width='40' />
+	<img src='https://cdn.simpleicons.org/pycharm/000000' height='40' width='40' />
+	<img src='https://cdn.simpleicons.org/webstorm/000000' height='40' width='40' />
 </div>
 
 <br>
