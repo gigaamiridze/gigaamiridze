@@ -93,11 +93,12 @@
 	<img src='https://skillicons.dev/icons?i=heroku' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=figma' height='40' width='40' />
 </div>
-	  
-<div align="center">
-  <h4>Databases</h4>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<div align='center'>
+  <h4>Databases<h4>
+	<img src='https://skillicons.dev/icons?i=postgres' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=sqlite' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=mongodb' height='40' width='40' />
 </div>
 
 <div align="center">
