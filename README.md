@@ -17,11 +17,16 @@
 
 ### <picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px></picture> About me
 
-###  About me 💁‍♂️
+- 💻 I'm an experienced `Full-Stack Web` and `Mobile Developer`
+- 🔭 I’m currently working on `React`, `React Native`, `Django`, and `PostgreSQL`
+- 🌟 Main languages: `Python`, `TypeScript`
+- 🌐 Personal portfolio: [gigaamiridze.com](https://www.gigaamiridze.com)
+- 🎯 I have a strong interest in `Cyber Security` and `Machine Learning`
+- 🚀 Always learning new things
+- 🤝 I’m available for freelancing
+- 📄 I’m currently open for a job opportunity, this is my [Resume](https://drive.google.com/file/d/1b0nlyBXEqA_hXLJ0IFz8bim1i5fULBCb/view?usp=sharing)
+- 📧 How to reach me gigaamiridze@gmail.com
 
-- 💻 Full-Stack Web & Mobile Developer
-- 🌐 Personal Portfolio [gigaamiridze.com](https://www.gigaamiridze.com)
-<!-- - 🔭 Learning Networks and Cyber Security at [IT Step Academy](https://ge.itstep.org) -->
 
 <br>
 
