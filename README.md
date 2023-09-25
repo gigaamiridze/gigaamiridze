@@ -8,13 +8,6 @@
 	</a>
 </p>
 
-<div style='display: flex; align-items: center;'>
-	<picture>
-		<img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px>
-	</picture>
-	<h3>About me</h3>
-</div>
-
 ### <picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px></picture> About me
 
 - 💻 I'm an experienced `Full-Stack Web` and `Mobile Developer`
