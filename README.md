@@ -116,8 +116,8 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Profile Stats</h3>
-<div align="center">
+<h3 align='center'>⚙️ GitHub Analytics</h3>
+<div align='center'>
   <a href="https://github.com/gigaamiridze/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gigaamiridze&theme=aura&show_icons=true" alt="Giga's GitHub Stats" height="190px"/>
   </a>
