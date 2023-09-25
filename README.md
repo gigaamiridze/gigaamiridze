@@ -19,15 +19,12 @@
 - 🌐 Personal portfolio: [gigaamiridze.com](https://www.gigaamiridze.com)
 - 🎯 I have a strong interest in `Cyber Security` and `Machine Learning`
 - 🚀 Always learning new things
-- 🤝 I’m available for freelancing
+- 🤝🏻 I’m available for freelancing
 - 📄 I’m currently open for a job opportunity, this is my [Resume](https://drive.google.com/file/d/1b0nlyBXEqA_hXLJ0IFz8bim1i5fULBCb/view?usp=sharing)
 - 📧 How to reach me gigaamiridze@gmail.com
 
-
-<br>
-
 <div align="center">
-  <h3>Contact me</h3>
+  <h3>🤝🏻 Connect with me</h3>
   <a href="mailto:gigaamiridze@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
