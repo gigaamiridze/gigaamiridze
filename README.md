@@ -8,10 +8,7 @@
 	</a>
 </p>
 
-<div display='flex' align-items='center'>
-	<picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=50px></picture>
-	<h3>About me</h3>	
-</div>
+### <picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px></picture> About me
 
 ###  About me 💁‍♂️
 
