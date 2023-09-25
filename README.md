@@ -101,6 +101,11 @@
 	<img src='https://skillicons.dev/icons?i=mongodb' height='40' width='40' />
 </div>
 
+<div align='center'>
+  <h4>DevOps<h4>
+	<img src='https://skillicons.dev/icons?i=docker' height='40' width='40' />
+</div>
+
 <div align="center">
   <h4>Package Managers</h4>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
