@@ -83,16 +83,15 @@
   <img src='https://skillicons.dev/icons?i=react' height='40' width='40' />
 </div>
 
-<div align="center">
+<div align='center'>
   <h4>Tools & Platforms<h4>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+	<img src='https://skillicons.dev/icons?i=git' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=github' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=postman' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=vercel' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=netlify' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=heroku' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=figma' height='40' width='40' />
 </div>
 	  
 <div align="center">
