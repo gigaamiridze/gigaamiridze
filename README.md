@@ -10,6 +10,9 @@
 
 ### <picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px></picture> About me
 
+<picture>
+	<img align='right' src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true' width=250px></picture>
+
 - 💻 I'm an experienced `Full-Stack Web` and `Mobile Developer`
 - 🔭 I’m currently working on `React`, `React Native`, `Django`, and `PostgreSQL`
 - 🌟 Main languages: `Python`, `TypeScript`
