@@ -8,7 +8,7 @@
 	</a>
 </p>
 
-### <picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=40px></picture>&nbsp;About me
+### 👨🏻‍💻 About Me
 
 <picture>
 	<img align='right' src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true' width=250px></picture>
@@ -26,7 +26,7 @@
 <br>
 
 <div align='center'>
-  <h3>🤝🏻 Connect with me</h3>
+  <h3>🤝🏻 Connect With Me</h3>
 <!--   <a href='mailto:gigaamiridze@gmail.com'>
     <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='32' />
   </a>
