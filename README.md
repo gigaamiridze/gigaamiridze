@@ -2,11 +2,16 @@
 	Hi, I'm <a href='https://www.gigaamiridze.com'>Giga Amiridze!</a>
 </h2>
 
-<p align="center">
+<p align='center'>
 	<a href='https://github.com/gigaamiridze'>
 		<img src='https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Web+and+Mobile+Developer;Competitive+Developer;Always+learning+new+things'>
 	</a>
 </p>
+
+<div flex='display' align-items='center'>
+	<picture><img src='https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true' width=50px></picture>
+	<h3>About me</h3>	
+</div>
 
 ###  About me 💁‍♂️
 
