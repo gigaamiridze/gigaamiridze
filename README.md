@@ -20,7 +20,7 @@
 - 🎯 I have a strong interest in `Cyber Security` and `Machine Learning`
 - 🚀 Always learning new things
 - 🤝🏻 I’m available for freelancing
-- 📄 I’m currently open for a job opportunity, this is my [Resume](https://drive.google.com/file/d/1b0nlyBXEqA_hXLJ0IFz8bim1i5fULBCb/view?usp=sharing)
+- 📄 I’m currently open for a job opportunity, this is my [Resume](https://drive.google.com/file/d/1U3piWYZqYPLeM-4xYtXJ0IYqHLQoDCCs/view?usp=drive_link)
 - 📧 How to reach me gigaamiridze@gmail.com
 
 <br>
