@@ -2,6 +2,12 @@
 	Hi, I'm <a href='https://www.gigaamiridze.com'>Giga Amiridze!</a>
 </h2>
 
+<p align='center'>
+	<a href='https://github.com/gigaamiridze'>
+		<img src='https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=70a5fd&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Web+and+Mobile+Developer;Competitive+Developer;Always+learning+new+things'>
+	</a>
+</p>
+
 ### 👨🏻‍💻 About Me
 
 <picture>
