@@ -28,12 +28,12 @@
 
 <div align='center'>
   <h3>🤝🏻 Connect With Me</h3>
-  <a href='mailto:gigaamiridze@gmail.com'>
+<!--   <a href='mailto:gigaamiridze@gmail.com'>
     <img src='https://img.icons8.com/doodle/40/000000/gmail--v1.png' height='30' width='32' />
   </a>
 	<a href='https://www.gigaamiridze.com' target='_blank'>
 		<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' height='30' width='32' />
-	</a>
+	</a> -->
   <a href='https://www.linkedin.com/in/gigaamiridze' target='_blank'>
     <img src='https://skillicons.dev/icons?i=linkedin' height='40' width='40' />
   </a>
