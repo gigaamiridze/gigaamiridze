@@ -56,24 +56,25 @@
 <h3 align='center'>🛠️ Skills</h3>
 <div align='center'>
   <h4>Programming Languages</h4>
-  <img src='https://skillicons.dev/icons?i=python' height='40' width='40' />
-  <img src='https://skillicons.dev/icons?i=typescript' height='40' width='40' />
-	<img src='https://skillicons.dev/icons?i=javascript' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=java' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=javascript' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=typescript' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=python' height='40' width='40' />
 </div>
 
 <div align='center'>
   <h4>Frontend Development</h4>
-  <img src='https://skillicons.dev/icons?i=html' height='40' width='40' />
-  <img src='https://skillicons.dev/icons?i=css' height='40' width='40' />
-	<img src='https://skillicons.dev/icons?i=sass' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=react' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=redux' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=styledcomponents' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=html' height='40' width='40' />
+  <img src='https://skillicons.dev/icons?i=css' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=sass' height='40' width='40' />
 </div>
 
 <div align='center'>
   <h4>Backend Development</h4>
+	<img src='https://skillicons.dev/icons?i=spring' height='40' width='40' />
   <img src='https://skillicons.dev/icons?i=django' height='40' width='40' />
   <img src='https://skillicons.dev/icons?i=nodejs' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=expressjs' height='40' width='40' />
@@ -110,9 +111,9 @@
 <div align='center'>
   <h4>IDEs<h4>
 	<img src='https://skillicons.dev/icons?i=vscode' height='40' width='40' />
-	<img src='https://skillicons.dev/icons?i=idea' height='40' width='40' />
-	<img src='https://cdn.simpleicons.org/pycharm/000000' height='40' width='40' />
 	<img src='https://cdn.simpleicons.org/webstorm/000000' height='40' width='40' />
+	<img src='https://cdn.simpleicons.org/pycharm/000000' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=idea' height='40' width='40' />
 </div>
 
 <br>
