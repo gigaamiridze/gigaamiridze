@@ -16,7 +16,7 @@
 
 - 💻 I'm an experienced `Full-Stack Web` and `Mobile Software Engineer`
 - 🔭 I’m currently working on `React`, `React Native`, `Django`, and `PostgreSQL`
-- 🌟 Main languages: `Python`, `TypeScript`
+- 🌟 Main languages: `Java`, `TypeScript`, `JavaScript`, `Python`
 - 🌐 Personal portfolio: [gigaamiridze.com](https://www.gigaamiridze.com)
 - 🎯 I have a strong interest in `Cyber Security` and `Machine Learning`
 - 🚀 Always learning new things
