@@ -57,8 +57,8 @@
 <div align='center'>
   <h4>Programming Languages</h4>
 	<img src='https://skillicons.dev/icons?i=java' height='40' width='40' />
-	<img src='https://skillicons.dev/icons?i=javascript' height='40' width='40' />
 	<img src='https://skillicons.dev/icons?i=typescript' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=javascript' height='40' width='40' />
   <img src='https://skillicons.dev/icons?i=python' height='40' width='40' />
 </div>
 
@@ -111,9 +111,9 @@
 <div align='center'>
   <h4>IDEs<h4>
 	<img src='https://skillicons.dev/icons?i=vscode' height='40' width='40' />
+	<img src='https://skillicons.dev/icons?i=idea' height='40' width='40' />
 	<img src='https://cdn.simpleicons.org/webstorm/000000' height='40' width='40' />
 	<img src='https://cdn.simpleicons.org/pycharm/000000' height='40' width='40' />
-	<img src='https://skillicons.dev/icons?i=idea' height='40' width='40' />
 </div>
 
 <br>
